@@ -1,4 +1,4 @@
-import { COUPON_CODES } from "@/sanity/lib/products/sales/couponCodes";
+// import { COUPON_CODES } from "@/sanity/lib/products/sales/couponCodes";
 import getActiveSaleByCouponCode from "@/sanity/lib/products/sales/getActiveSaleByCouponCode";
 
 async function BlackFridayBanner(){

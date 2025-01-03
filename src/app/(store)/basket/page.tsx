@@ -16,7 +16,7 @@ function BasketPage() {
   const { user} = useUser ();
   const router = useRouter
   
-const [IsClient, SetIsClient] = useState(false);
+// const [IsClient, SetIsClient] = useState(false);
 const [isLoading, setIsLoading] = useState(false);
   
 if (groupedItems.length === 0) {
