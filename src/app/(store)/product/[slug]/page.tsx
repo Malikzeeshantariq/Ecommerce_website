@@ -1,5 +1,4 @@
 import AddToBasketButton from '@/components/ui/AddToBasketButton';
-import { Button } from '@/components/ui/button';
 import { urlFor } from '@/sanity/lib/image';
 import { getProductBySlug } from '@/sanity/lib/products/getProductBySlug';
 import { PortableText } from 'next-sanity';
